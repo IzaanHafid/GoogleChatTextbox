@@ -1,1 +1,3 @@
-# good luck for not confusing this with the actual google chat
+## First Website I made
+this was my first website i made, purely using HTML & CSS without any JavaScript
+Use any compiler and upload the html & css files to view the website
